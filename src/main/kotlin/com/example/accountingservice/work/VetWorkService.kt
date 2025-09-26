@@ -1,6 +1,7 @@
-package com.example.accountingservice
+package com.example.accountingservice.work
 
 import com.example.accountingservice.payment.VetPayment
+import com.example.accountingservice.payment.VetPaymentRepository
 import com.example.accountingservice.vet.VetSalaryRepository
 import org.springframework.stereotype.Service
 import org.springframework.transaction.annotation.Transactional

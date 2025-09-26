@@ -1,4 +1,4 @@
-package com.example.accountingservice
+package com.example.accountingservice.work
 
 import java.time.LocalDate
 
